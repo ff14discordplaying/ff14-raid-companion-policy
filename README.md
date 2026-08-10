@@ -4,7 +4,7 @@ Discord上でFF14の固定活動を支援する、個人運営の無料Botです
 
 ## Botをサーバーへ追加
 
-[光の世話係をDiscordサーバーへ招待する](https://discord.com/oauth2/authorize?client_id=1530461617786060840&permissions=17601044638736&integration_type=0&scope=applications.commands%20bot)
+[光の世話係をDiscordサーバーへ招待する](https://discord.com/oauth2/authorize?client_id=1530461617786060840&permissions=2269400858323984&integration_type=0&scope=applications.commands%20bot)
 
 招待先のDiscordサーバーで、アプリを追加できる権限が必要です。
 本BotはAdministrator権限を要求しません。
