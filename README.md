@@ -1,6 +1,8 @@
-# 光の世話係（FF14 Raid Companion）
+# つむぎ（旧称：光の世話係）
 
-Discord上でFF14の固定活動を支援する、個人運営の無料Botです。
+仲間との活動を、ひとつに。
+
+コミュニティやゲーム活動の運営を支える、個人運営の無料Discordアシスタントです。FF14の固定活動向けの機能も備えています。
 
 ## 主な機能
 
@@ -16,7 +18,7 @@ Discord上でFF14の固定活動を支援する、個人運営の無料Botです
 
 ## Botをサーバーへ追加
 
-[光の世話係をDiscordサーバーへ招待する](https://discord.com/oauth2/authorize?client_id=1530461617786060840)
+[つむぎをDiscordサーバーへ招待する](https://discord.com/oauth2/authorize?client_id=1530461617786060840)
 
 招待先のDiscordサーバーで、アプリを追加できる権限が必要です。
 本BotはDiscordの「管理者」（Administrator）権限を要求しません。
