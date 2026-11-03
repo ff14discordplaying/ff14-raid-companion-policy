@@ -2,7 +2,7 @@
 
 > 最新版は次のWebページでも確認できます：https://web--ff14-raid-companion-web--wqwnxcrvmsz7.code.run/legal/privacy
 
-「光の世話係（FF14 Raid Companion）」（以下「本Bot」）は、FF14の固定活動をDiscordと補助Web画面で支援する、個人運営の無料サービスです。
+「つむぎ（旧称：光の世話係）」（以下「本Bot」）は、FF14の固定活動をDiscordと補助Web画面で支援する、個人運営の無料サービスです。
 本Botは広告配信、行動追跡、アクセス解析、データ販売を行いません。一般利用者がDiscord以外のアカウントを本Botへ連携する必要もありません。
 
 ## 1. 情報の利用目的
